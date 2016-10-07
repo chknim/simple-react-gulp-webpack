@@ -3,7 +3,10 @@ The goal is to have yet another template with these features
 - Bundle all source codes and libraries into a statically deployable output
 - Two easy triggerable options for development mode or production mode
 
-# Pre-requisite
+# Usage
+- Run `npm start`
+
+# Development History
 <h2>Initialize package.json</h2>
 - npm init
 
